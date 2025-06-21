@@ -2,15 +2,13 @@
 
 **Modern Sales Intelligence**
 
-Actionable data that drives sales.
-Connect, track, and react to the buyers that matter.
+Modern Sales Intelligence at a Fraction of the Cost.
 
 Welcome to upcell's official GitHub organization! We're building innovative tools to transform sales prospecting.
 
 ## Products
-- **Prospector**: Effortlessly add contacts to your CRM with a single Hotkey, making lead capture fast and efficient.
-- **Enrich**: Automatically enrich exported contacts with reliable mobile numbers and emails for more effective outreach.
-- **Signals**: Seamlessly track job changes and social interactions in real-time, keeping your reps informed and ready to engage.
+- **upcell Chrome Extension**: upcell is a lightweight LinkedIn Chrome extension that captures records, enriches B2B contact data, and syncs directly into your CRM—without the clutter of traditional sales platforms.
+- **Data Enrichment API**: Use the upcell API to enrich contacts with reliable mobile numbers and emails for more effective outreach. The upcell API can easily be used in products like Clay and Airscale.
 
 ## Learn more
 Visit our [website](https://www.upcell.io) for more information about our products and how we can help elevate your sales strategy.
