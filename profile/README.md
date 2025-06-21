@@ -1,8 +1,6 @@
 # upcell
 
-**Modern Sales Intelligence**
-
-Modern Sales Intelligence at a Fraction of the Cost.
+**Modern Sales Intelligence at a Fraction of the Cost**
 
 Welcome to upcell's official GitHub organization! We're building innovative tools to transform sales prospecting.
 
